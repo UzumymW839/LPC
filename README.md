@@ -10,11 +10,12 @@ Author:   Lukas Bombel      []
 Initial Creation:     06-15-23 10:30
 Project Status:       progress
 
-Task: [ 1. Script aufräummen check
-        2. Funkktin zum zerlegen des Signals
-        3. Funktion zum anregen der LPC Filter mit einem Fehlersignal
-        4. Funktionen zum plotten von Spektrogrammen
-        5. Audioaufnahmen erstellen]
+Task: [ 1. Script aufräummen [check]
+        2. Funkktin zum zerlegen des Signals [check]
+        3. Funktion zum anregen der LPC Filter mit einem Fehlersignal [wsch nicht noetig]
+        4. Funktionen zum plotten von Spektrogrammen [check]
+        5. Audioaufnahmen erstellen
+        6. Sound der Aufnahmen ueberpruefen]
 
 Notes: []
 
